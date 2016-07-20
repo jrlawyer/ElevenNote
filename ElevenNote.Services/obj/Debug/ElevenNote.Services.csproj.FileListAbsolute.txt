@@ -1,0 +1,5 @@
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojResolveAssemblyReference.cache
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb

@@ -1,0 +1,5 @@
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.pdb
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojResolveAssemblyReference.cache
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
