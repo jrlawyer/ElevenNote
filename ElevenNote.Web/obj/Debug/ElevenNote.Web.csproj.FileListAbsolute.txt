@@ -67,3 +67,9 @@ C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\Microsoft.Owi
 C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\obj\Debug\ElevenNote.Web.csprojResolveAssemblyReference.cache
 C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\obj\Debug\ElevenNote.Web.dll
 C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\obj\Debug\ElevenNote.Web.pdb
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\ElevenNote.Data.dll
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\ElevenNote.Models.dll
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\ElevenNote.Services.dll
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\ElevenNote.Data.pdb
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\ElevenNote.Models.pdb
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\ElevenNote.Services.pdb

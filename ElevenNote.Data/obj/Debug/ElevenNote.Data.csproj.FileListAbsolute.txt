@@ -3,3 +3,12 @@ C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\bin\Debug\Eleven
 C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojResolveAssemblyReference.cache
 C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.dll
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.xml
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
