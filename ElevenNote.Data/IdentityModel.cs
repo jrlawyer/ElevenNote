@@ -24,7 +24,7 @@ namespace ElevenNote.Data
     {
         public ElevenNoteDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
-        {
+        {  
         }
 
         public static ElevenNoteDbContext Create()
@@ -32,6 +32,8 @@ namespace ElevenNote.Data
             return new ElevenNoteDbContext();
         }
 
+        public DbSet<NoteEntity> Notes { get; set; }
+        //informs Entity framework so that it can communicate with the data base
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
