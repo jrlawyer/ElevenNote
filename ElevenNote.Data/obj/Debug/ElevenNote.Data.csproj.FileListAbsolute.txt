@@ -12,3 +12,6 @@ C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\bin\Debug\Entity
 C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.Cache
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.AddingIsStarredToNotes.resources

@@ -58,12 +58,29 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IdentityModel.cs" />
+    <Compile Include="Migrations\201607201936333_InitialCreate.cs" />
+    <Compile Include="Migrations\201607201936333_InitialCreate.Designer.cs">
+      <DependentUpon>201607201936333_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201607212040506_AddingIsStarredToNotes.cs" />
+    <Compile Include="Migrations\201607212040506_AddingIsStarredToNotes.Designer.cs">
+      <DependentUpon>201607212040506_AddingIsStarredToNotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="NoteEntity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201607201936333_InitialCreate.resx">
+      <DependentUpon>201607201936333_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201607212040506_AddingIsStarredToNotes.resx">
+      <DependentUpon>201607212040506_AddingIsStarredToNotes.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

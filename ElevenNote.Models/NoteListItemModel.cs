@@ -10,8 +10,10 @@ namespace ElevenNote.Models
     public class NoteListItemModel
     {
         public int NoteId { get; set; }
-
+        
         public string Title { get; set; }
+
+        public bool IsStarred { get; set; }
 
         [Display(Name = "Created")]
         public DateTimeOffset CreatedUtc { get; set; }
