@@ -73,3 +73,9 @@ C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\ElevenNote.Se
 C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\ElevenNote.Data.pdb
 C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\ElevenNote.Models.pdb
 C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\ElevenNote.Services.pdb
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\System.Web.Http.dll
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\System.Web.Http.xml
+C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Web\bin\System.Web.Http.WebHost.xml

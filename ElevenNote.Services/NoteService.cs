@@ -44,11 +44,12 @@ namespace ElevenNote.Services
 
             }
         }  //gets note
-           /// <summary>
-           /// create a new note for the current user.
-           /// </summary>
-           /// <param name="model">The model base the new note upon.</param>
-           /// <returns>a boolean indicating whether creating note was successful.</returns>
+
+        /// <summary>
+        /// create a new note for the current user.
+        /// </summary>
+        /// <param name="model">The model base the new note upon.</param>
+        /// <returns>a boolean indicating whether creating note was successful.</returns>
 
         public bool CreateNote(NoteCreateModel model)
         {
@@ -81,13 +82,14 @@ namespace ElevenNote.Services
                 var entity = 
                     ctx
                             .Notes
-                            .Single(e => e.NoteId == noteId && e.OwnerId == _userId); //get note and authorize note
+                            .Single(e => e.NoteId == noteId && e.OwnerId == _userId); //get note and authorize user
                 return
                     new NoteDetailModel
                     {
                         NoteId = entity.NoteId,
                         Title = entity.Title,
                         Content = entity.Content,
+                        IsStarred = entity.IsStarred,
                         CreatedUtc = entity.CreatedUtc,
                         ModifiedUtc = entity.ModifiedUtc
                     };
@@ -106,6 +108,7 @@ namespace ElevenNote.Services
 
                 entity.Title = model.Title;
                 entity.Content = model.Content;
+                entity.IsStarred = model.IsStarred;
                 entity.ModifiedUtc = DateTimeOffset.UtcNow;
 
                 return ctx.SaveChanges() == 1;

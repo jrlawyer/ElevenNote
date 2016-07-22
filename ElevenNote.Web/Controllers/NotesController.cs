@@ -72,7 +72,8 @@ namespace ElevenNote.Web.Controllers
                 {
                     NoteId = note.NoteId,  //gets note data and equates it to NoteEditModel
                     Title = note.Title,
-                    Content = note.Content
+                    Content = note.Content,
+                    IsStarred = note.IsStarred
                 };
 
             return View(model);
