@@ -27,12 +27,23 @@ namespace ElevenNote.Web.Controllers
         }
 
         // GET: Notes
-        public ActionResult Index()
+        public ActionResult Index(string searchString)
         {
-            var notes =
-                _svc.Value.GetNotes(); //referencing lazy from above
+            //var notes =
+                //_svc.Value.GetNotes(); //referencing lazy from above
 
-            return View(notes);  //Webpage view references notes
+            //return View(notes);  //Webpage view references notes
+
+            var notes = from o in _svc.Value.GetNotes()
+                        select o;
+                            
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                notes = notes.Where(s => s.Title.Contains(searchString));
+            }
+
+            return View(notes);
+        
         }
 
         public ActionResult Create()
