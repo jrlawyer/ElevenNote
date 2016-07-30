@@ -34,8 +34,8 @@ namespace ElevenNote.Web.Controllers
 
             //return View(notes);  //Webpage view references notes
 
-            var notes = from o in _svc.Value.GetNotes()
-                        select o;
+            var notes = from n in _svc.Value.GetNotes()
+                        select n;
                             
             if (!String.IsNullOrEmpty(searchString))
             {
