@@ -20,8 +20,17 @@
     </div>
 }
 
+<form asp-controller="Notes" asp-action="Index">
+    <p>
+        Title: <input type="text" name="SearchString">
+        <input type="submit" value="Filter" class="btn"/>
+    </p>
+</form>
+
+
+
 <table class="table">
-    <tr>
+    <tr class="info">
         <th>
             @Html.DisplayNameFor(model => model.NoteId)
         </th>
