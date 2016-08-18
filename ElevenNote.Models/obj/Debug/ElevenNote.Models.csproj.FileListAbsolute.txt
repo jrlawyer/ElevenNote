@@ -1,5 +1,0 @@
-C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
-C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
-C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojResolveAssemblyReference.cache
-C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
-C:\Users\Jennifer\Desktop\DotNet\MVC\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
