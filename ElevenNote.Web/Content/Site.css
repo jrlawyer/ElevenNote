@@ -22,3 +22,16 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.jumbotron{
+    background-image:url("img/notes.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+
+}
+
+.jumbotron p {
+  margin-bottom: 15px;
+  font-size: 22px;
+  font-weight: bold;
+}
